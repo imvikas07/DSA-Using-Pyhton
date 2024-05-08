@@ -13,3 +13,7 @@ Question 3: Write a ptyhon script to calculate average of elements of a list.
 Question 4: Write a ptyhon script to create a list of first N prime numbers.
 
 Question 5: Write a python script to create a list of first N terms of a Fibonacci series.
+
+
+
+------------------------------------------------------------------------------------------------
